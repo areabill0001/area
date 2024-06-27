@@ -1,0 +1,2 @@
+# area
+Godec  outing
